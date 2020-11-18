@@ -15,15 +15,17 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
+    "bootstrap-social": "^5.1.1",
+    "fontawesome": "^5.6.3",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BryanLoops/Coursera-Assignment-1.git"
+    "url": "git+https://github.com/BryanLoops/Coursera-Assignments.git"
   },
   "bugs": {
-    "url": "https://github.com/BryanLoops/Coursera-Assignment-1/issues"
+    "url": "https://github.com/BryanLoops/Coursera-Assignments/issues"
   },
-  "homepage": "https://github.com/BryanLoops/Coursera-Assignment-1#readme"
+  "homepage": "https://github.com/BryanLoops/Coursera-Assignments#readme"
 }
